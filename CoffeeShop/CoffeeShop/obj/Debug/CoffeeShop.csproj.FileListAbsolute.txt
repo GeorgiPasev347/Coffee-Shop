@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\PC\Desktop\CS Projects\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form2.resources
